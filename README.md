@@ -1,1 +1,1 @@
-Testing
+The following script is intended for users to understand the models that were used to estimate cooling costs for birds in the desert from the manuscript 'Cooling requirements fueled the collapse of a desert bird community from climate change.' The script was written in Python. Users must download the endotherm_properties.csv to run the script and change the paths to the proper directories. The script only works for birds in the southwestern desert of California. Users should also used NicheMapR to generate the appropriate files that contain soil temperature data.
